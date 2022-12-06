@@ -6,8 +6,11 @@ authors = ["Arthur Oliveira IFC <ruhtra.oliveira3@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.8"
 
+
+[tool.poetry.group.dev.dependencies]
+autopep8 = "^2.0.0"
 
 [build-system]
 requires = ["poetry-core"]
