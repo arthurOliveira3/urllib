@@ -29,8 +29,8 @@ def preco_especial():
 
 
 def envia_email(preco):
-    email_google = ''
-    senha_google = 'dxxzbjgcgewbvpwr'
+    email_google = 'INSIRA SEU EMAIL DO GOOGLE'
+    senha_google = 'INSIRA SUA SENHA DE APP DO GOOGLE'
 
     remetente = email_google
     destinatario = 'INSIRA O EMAIL DO DESTINATARIO'
